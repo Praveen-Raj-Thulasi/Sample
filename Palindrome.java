@@ -10,9 +10,9 @@ class Palindrome{
             N /= 10;
         }
         if(org == rev){
-            System.out.println("Palindrome");
+            System.out.println("It is an Palindrome");
         } else {
-            System.out.println("Not Palindrome");
+            System.out.println("It is Not Palindrome");
         }
     }
 }
